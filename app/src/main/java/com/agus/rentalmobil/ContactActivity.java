@@ -18,7 +18,7 @@ public class ContactActivity extends AppCompatActivity {
 
     ListView listView;
     String mTitle[] = {"Facebook", "Whatsapp", "Instagram", "Youtube"};
-    String mDescription[] = {"Agus Novianto", "085156586447", "@guz_00", "Agus Novianto"};
+    String mDescription[] = {"Maulaya Lathif NR", "085850345846", "@Lathifnr_", "Lathif Tutorial"};
     int images[] = {R.drawable.facebook, R.drawable.whatsapp, R.drawable.instagram, R.drawable.youtube};
 
     @Override
